@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the official documentation of the Scientist Discord Bot.
 
-You can use the [editor on GitHub](https://github.com/MannyiOS/ScientistDiscordBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Quick disclaimer: No, this bot has nothing to do with actual science. In the future I may add commands that have science involved, but for now it's simply just a name.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
