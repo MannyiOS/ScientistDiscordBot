@@ -14,6 +14,8 @@ Below you will see a list of commands that can be used for the bot, I will make 
 Command list:
 -ping, bot will reply with "pong!"
 -rick, bot will reply with Rick Roll
+-nospace, bot will reply with very true fact about nospace
+-morning, bot will reply with a good morning message
 ```
 
 For more details about my bot, please join the discord: https://discord.gg/KQWtv6MJmz
