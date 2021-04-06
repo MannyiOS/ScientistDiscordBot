@@ -18,4 +18,4 @@ Command list:
 -morning, bot will reply with a good morning message
 ```
 
-For more details about my bot, please join the discord: https://discord.gg/KQWtv6MJmz
+For more details about my bot, please join the discord: [Discord](https://discord.gg/KQWtv6MJmz)
